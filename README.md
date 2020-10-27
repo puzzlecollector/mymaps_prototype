@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Wanted to create functionality of selecting an already created map and being able to delete it, but could not do so under the time constraint. Could possibly work on this in the near future. 
 
 ## License
 
